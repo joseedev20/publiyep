@@ -1,0 +1,10 @@
+<svg width="590" height="154" viewBox="0 0 590 154" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Publiyep Acacías</title>
+  <desc id="desc">Logo claro de Publiyep Acacías</desc>
+  <circle cx="75" cy="77" r="52" fill="#FFFFFF"/>
+  <path d="M83 29C65 52 56 75 50 103c-2 10 10 16 17 8 17-20 28-47 36-75 2-8-14-14-20-7Z" fill="#080B09"/>
+  <path d="M66 107c30-10 54-28 72-55" stroke="#76AD2D" stroke-width="9" stroke-linecap="round"/>
+  <path d="M47 118c34-10 67-32 95-78" stroke="#F26B1D" stroke-width="7" stroke-linecap="round"/>
+  <text x="145" y="83" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="55" font-weight="900" letter-spacing="-2">PUBLIYEP</text>
+  <text x="318" y="116" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="800" letter-spacing="8">ACACÍAS</text>
+</svg>

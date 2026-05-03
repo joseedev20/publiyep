@@ -1,0 +1,25 @@
+<svg width="760" height="620" viewBox="0 0 760 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Ilustración de impresión gran formato</title>
+<desc id="desc">Máquina de impresión con piezas gráficas, vinilos y señalización</desc>
+<rect width="760" height="620" rx="36" fill="#F6F8F3"/>
+<rect x="60" y="54" width="640" height="178" rx="24" fill="#111311"/>
+<rect x="95" y="88" width="570" height="36" rx="12" fill="#272B27"/>
+<rect x="122" y="145" width="118" height="44" rx="12" fill="#76AD2D"/>
+<rect x="258" y="145" width="118" height="44" rx="12" fill="#F26B1D"/>
+<rect x="394" y="145" width="118" height="44" rx="12" fill="#F8C400"/>
+<rect x="530" y="145" width="92" height="44" rx="12" fill="#FFFFFF"/>
+<path d="M85 264h590c20 0 36 16 36 36v34H49v-34c0-20 16-36 36-36Z" fill="#202420"/>
+<rect x="87" y="296" width="586" height="22" rx="11" fill="#4A4F49"/>
+<path d="M139 334h482l41 230H98l41-230Z" fill="#FFFFFF"/>
+<path d="M151 356h456l28 158H124l27-158Z" fill="#E8ECE4"/>
+<path d="M198 382h242c25 0 45 20 45 45v88H154v-88c0-25 20-45 44-45Z" fill="#76AD2D"/>
+<path d="M432 382h83c25 0 45 20 45 45v88H432V382Z" fill="#111311"/>
+<path d="M140 518h520v47H100l40-47Z" fill="#F26B1D"/>
+<path d="M164 452c58-68 121-68 188 0 55 56 111 58 168 7" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+<circle cx="587" cy="432" r="44" fill="#F8C400"/>
+<path d="M90 238h590" stroke="#76AD2D" stroke-width="10" stroke-linecap="round"/>
+<path d="M214 569h348" stroke="#111311" stroke-width="18" stroke-linecap="round"/>
+<text x="137" y="478" fill="white" font-family="Inter, Arial" font-size="56" font-weight="900" letter-spacing="-2">PRINT</text>
+<text x="548" y="441" fill="#111311" font-family="Inter, Arial" font-size="20" font-weight="900">YK</text>
+<path d="M628 84 714 84 654 202 558 202Z" fill="#F26B1D" fill-opacity=".65"/>
+</svg>

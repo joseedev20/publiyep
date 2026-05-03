@@ -1,0 +1,14 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#080B09"/>
+  <circle cx="1010" cy="120" r="210" fill="#76AD2D" fill-opacity="0.22"/>
+  <path d="M880 80h250L980 390H730L880 80Z" fill="#F26B1D" fill-opacity="0.42"/>
+  <circle cx="145" cy="138" r="58" fill="white"/>
+  <path d="M154 84C133 110 123 139 117 171c-2 11 12 18 20 9 20-23 32-54 42-87 2-9-17-16-25-9Z" fill="#080B09"/>
+  <path d="M135 175c33-11 62-33 84-65" stroke="#76AD2D" stroke-width="9" stroke-linecap="round"/>
+  <path d="M114 188c40-12 78-38 109-91" stroke="#F26B1D" stroke-width="7" stroke-linecap="round"/>
+  <text x="230" y="157" fill="white" font-family="Inter, Arial" font-size="64" font-weight="900">PUBLIYEP</text>
+  <text x="235" y="206" fill="white" fill-opacity=".72" font-family="Inter, Arial" font-size="28" font-weight="800" letter-spacing="10">ACACÍAS</text>
+  <text x="88" y="350" fill="white" font-family="Inter, Arial" font-size="70" font-weight="900" letter-spacing="-4">Publicidad impresa y gran formato</text>
+  <text x="92" y="420" fill="#F8C400" font-family="Inter, Arial" font-size="32" font-weight="800">Diseño · Corte · Señalización · Planos</text>
+  <text x="92" y="500" fill="white" fill-opacity=".72" font-family="Inter, Arial" font-size="26" font-weight="600">Acacías, Meta · 313 431 2407</text>
+</svg>
