@@ -1,0 +1,282 @@
+[
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/098/305/section-arrow-collapsed-dark.png",
+    "source": "inline-css",
+    "cleanUrl": "https://0201.nccdn.net/1_2/000/000/098/305/section-arrow-collapsed-dark.png",
+    "localName": "section-arrow-collapsed-dark.png"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/0b3/2cf/nav_dot_separator_black.png",
+    "source": "inline-css",
+    "cleanUrl": "https://0201.nccdn.net/1_2/000/000/0b3/2cf/nav_dot_separator_black.png",
+    "localName": "nav_dot_separator_black.png"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/0c2/584/mat-black-60.png",
+    "source": "inline-css",
+    "cleanUrl": "https://0201.nccdn.net/1_2/000/000/0c2/584/mat-black-60.png",
+    "localName": "mat-black-60.png"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/0c5/f30/sprite-dots-dark.svg",
+    "source": "inline-css",
+    "cleanUrl": "https://0201.nccdn.net/1_2/000/000/0c5/f30/sprite-dots-dark.svg",
+    "localName": "sprite-dots-dark.svg"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/0e4/afe/close.svg",
+    "source": "inline-css",
+    "cleanUrl": "https://0201.nccdn.net/1_2/000/000/0e4/afe/close.svg",
+    "localName": "close.svg"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/0ee/126/mat-black-80.png",
+    "source": "computed.backgroundImage",
+    "cleanUrl": "https://0201.nccdn.net/1_2/000/000/0ee/126/mat-black-80.png",
+    "localName": "mat-black-80.png"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/0f3/714/section-arrow-expanded-white.png",
+    "source": "inline-css",
+    "cleanUrl": "https://0201.nccdn.net/1_2/000/000/0f3/714/section-arrow-expanded-white.png",
+    "localName": "section-arrow-expanded-white.png"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/109/425/mat-black-12.png",
+    "source": "inline-css",
+    "cleanUrl": "https://0201.nccdn.net/1_2/000/000/109/425/mat-black-12.png",
+    "localName": "mat-black-12.png"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/11d/a9c/nav-buttons-light.svg",
+    "source": "inline-css",
+    "cleanUrl": "https://0201.nccdn.net/1_2/000/000/11d/a9c/nav-buttons-light.svg",
+    "localName": "nav-buttons-light.svg"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/121/0ad/section-arrow-expanded-dark.png",
+    "source": "inline-css",
+    "cleanUrl": "https://0201.nccdn.net/1_2/000/000/121/0ad/section-arrow-expanded-dark.png",
+    "localName": "section-arrow-expanded-dark.png"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/154/115/nav-dots-light.svg",
+    "source": "inline-css",
+    "cleanUrl": "https://0201.nccdn.net/1_2/000/000/154/115/nav-dots-light.svg",
+    "localName": "nav-dots-light.svg"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/167/95b/alpha-black-1.png",
+    "source": "inline-css",
+    "cleanUrl": "https://0201.nccdn.net/1_2/000/000/167/95b/alpha-black-1.png",
+    "localName": "alpha-black-1.png"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/169/193/nav_dot_separator_green.png",
+    "source": "computed.backgroundImage",
+    "cleanUrl": "https://0201.nccdn.net/1_2/000/000/169/193/nav_dot_separator_green.png",
+    "localName": "nav_dot_separator_green.png"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/175/b9e/nav-numbers-light.svg",
+    "source": "inline-css",
+    "cleanUrl": "https://0201.nccdn.net/1_2/000/000/175/b9e/nav-numbers-light.svg",
+    "localName": "nav-numbers-light.svg"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/175/c56/sprite-scrollbar-arrows-light.svg",
+    "source": "inline-css",
+    "cleanUrl": "https://0201.nccdn.net/1_2/000/000/175/c56/sprite-scrollbar-arrows-light.svg",
+    "localName": "sprite-scrollbar-arrows-light.svg"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/192/652/page_image_shadow_top.png",
+    "source": "computed.backgroundImage",
+    "cleanUrl": "https://0201.nccdn.net/1_2/000/000/192/652/page_image_shadow_top.png",
+    "localName": "page_image_shadow_top.png"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/4_2/000/000/000/13f/search_icon.png",
+    "source": "inline-css",
+    "cleanUrl": "https://0201.nccdn.net/4_2/000/000/000/13f/search_icon.png",
+    "localName": "search_icon.png"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/4_2/000/000/002/0b8/main_content_top_shadow.png",
+    "source": "computed.backgroundImage",
+    "cleanUrl": "https://0201.nccdn.net/4_2/000/000/002/0b8/main_content_top_shadow.png",
+    "localName": "main_content_top_shadow.png"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/4_2/000/000/00a/17d/section-arrow-collapsed-white.png",
+    "source": "inline-css",
+    "cleanUrl": "https://0201.nccdn.net/4_2/000/000/00a/17d/section-arrow-collapsed-white.png",
+    "localName": "section-arrow-collapsed-white.png"
+  },
+  {
+    "type": "css-url",
+    "url": "https://designs.nccdn.net/Common/Navigation/mobile_nav_icon.png",
+    "source": "computed.backgroundImage",
+    "cleanUrl": "https://designs.nccdn.net/Common/Navigation/mobile_nav_icon.png",
+    "localName": "mobile_nav_icon.png"
+  },
+  {
+    "type": "css-url",
+    "url": "https://img-fl.nccdn.net/Shared/Images/Form/icon-error-32.png",
+    "source": "computed.backgroundImage",
+    "cleanUrl": "https://img-fl.nccdn.net/Shared/Images/Form/icon-error-32.png",
+    "localName": "icon-error-32.png"
+  },
+  {
+    "type": "css-url",
+    "url": "https://img-fl.nccdn.net/Shared/UIComponents/React/Modal/Images/close_icon.svg",
+    "source": "computed.backgroundImage",
+    "cleanUrl": "https://img-fl.nccdn.net/Shared/UIComponents/React/Modal/Images/close_icon.svg",
+    "localName": "close_icon.svg"
+  },
+  {
+    "type": "css-url",
+    "url": "https://si.nccdn.net/pictograms-black/48/icon_04.png",
+    "source": "computed.backgroundImage",
+    "cleanUrl": "https://si.nccdn.net/pictograms-black/48/icon_04.png",
+    "localName": "icon_04.png"
+  },
+  {
+    "type": "css-url",
+    "url": "https://si.nccdn.net/pictograms-black/48/icon_178.png",
+    "source": "computed.backgroundImage",
+    "cleanUrl": "https://si.nccdn.net/pictograms-black/48/icon_178.png",
+    "localName": "icon_178.png"
+  },
+  {
+    "type": "css-url",
+    "url": "https://si.nccdn.net/pictograms-black/48/icon_188.png",
+    "source": "computed.backgroundImage",
+    "cleanUrl": "https://si.nccdn.net/pictograms-black/48/icon_188.png",
+    "localName": "icon_188.png"
+  },
+  {
+    "type": "css-url",
+    "url": "https://si.nccdn.net/pictograms-black/48/icon_189.png",
+    "source": "computed.backgroundImage",
+    "cleanUrl": "https://si.nccdn.net/pictograms-black/48/icon_189.png",
+    "localName": "icon_189.png"
+  },
+  {
+    "type": "css-url",
+    "url": "https://si.nccdn.net/pictograms-black/48/icon_53.png",
+    "source": "computed.backgroundImage",
+    "cleanUrl": "https://si.nccdn.net/pictograms-black/48/icon_53.png",
+    "localName": "icon_53.png"
+  },
+  {
+    "type": "icon",
+    "url": "http://www.publiyep.com/android-chrome-192x192.png#SYSTEM",
+    "source": "link.icon",
+    "cleanUrl": "http://www.publiyep.com/android-chrome-192x192.png",
+    "localName": "android-chrome-192x192.png"
+  },
+  {
+    "type": "icon",
+    "url": "http://www.publiyep.com/android-chrome-512x512.png#SYSTEM",
+    "source": "link.icon",
+    "cleanUrl": "http://www.publiyep.com/android-chrome-512x512.png",
+    "localName": "android-chrome-512x512.png"
+  },
+  {
+    "type": "icon",
+    "url": "https://img-fl.nccdn.net/apple-touch-icon.png?V=af24f831#SYSTEM",
+    "source": "link.apple-touch-icon",
+    "cleanUrl": "https://img-fl.nccdn.net/apple-touch-icon.png?V=af24f831",
+    "localName": "apple-touch-icon.png"
+  },
+  {
+    "type": "icon",
+    "url": "https://img-fl.nccdn.net/favicon-16x16.png?V=af24f831#SYSTEM",
+    "source": "link.icon",
+    "cleanUrl": "https://img-fl.nccdn.net/favicon-16x16.png?V=af24f831",
+    "localName": "favicon-16x16.png"
+  },
+  {
+    "type": "icon",
+    "url": "https://img-fl.nccdn.net/favicon-32x32.png?V=af24f831#SYSTEM",
+    "source": "link.icon",
+    "cleanUrl": "https://img-fl.nccdn.net/favicon-32x32.png?V=af24f831",
+    "localName": "favicon-32x32.png"
+  },
+  {
+    "type": "icon",
+    "url": "https://img-fl.nccdn.net/favicon.ico?V=af24f831#SYSTEM",
+    "source": "link.icon",
+    "cleanUrl": "https://img-fl.nccdn.net/favicon.ico?V=af24f831",
+    "localName": "favicon.ico"
+  },
+  {
+    "type": "image",
+    "url": "https://0201.nccdn.net/1_2/000/000/092/e1b/Portada-Publiyep_IMPRESION-4514x1672.png#RDAMDAID22312496",
+    "source": "img.src",
+    "cleanUrl": "https://0201.nccdn.net/1_2/000/000/092/e1b/Portada-Publiyep_IMPRESION-4514x1672.png",
+    "localName": "Portada-Publiyep_IMPRESION-4514x1672.png"
+  },
+  {
+    "type": "image",
+    "url": "https://0201.nccdn.net/1_2/000/000/181/cac/logo-publiyep_2_2_mesa-de-trabajo-1.png",
+    "source": "meta",
+    "cleanUrl": "https://0201.nccdn.net/1_2/000/000/181/cac/logo-publiyep_2_2_mesa-de-trabajo-1.png",
+    "localName": "logo-publiyep_2_2_mesa-de-trabajo-1.png"
+  },
+  {
+    "type": "image",
+    "url": "https://0201.nccdn.net/4_2/000/000/024/ec9/309989558_500162875452366_8664288469728456609_n.jpg#RDAMDAID40485188",
+    "source": "img.src",
+    "cleanUrl": "https://0201.nccdn.net/4_2/000/000/024/ec9/309989558_500162875452366_8664288469728456609_n.jpg",
+    "localName": "309989558_500162875452366_8664288469728456609_n.jpg"
+  },
+  {
+    "type": "image",
+    "url": "https://0201.nccdn.net/4_2/000/000/081/4ce/fondo-d-641x351.png#RDAMDAID22312692",
+    "source": "img.src",
+    "cleanUrl": "https://0201.nccdn.net/4_2/000/000/081/4ce/fondo-d-641x351.png",
+    "localName": "fondo-d-641x351.png"
+  },
+  {
+    "type": "image",
+    "url": "https://si.nccdn.net/bi_color/dark_green_dark_gray/256x256/icon108.png",
+    "source": "img.src",
+    "cleanUrl": "https://si.nccdn.net/bi_color/dark_green_dark_gray/256x256/icon108.png",
+    "localName": "icon108.png"
+  },
+  {
+    "type": "image",
+    "url": "https://si.nccdn.net/bi_color/dark_green_dark_gray/256x256/icon137.png",
+    "source": "img.src",
+    "cleanUrl": "https://si.nccdn.net/bi_color/dark_green_dark_gray/256x256/icon137.png",
+    "localName": "icon137.png"
+  },
+  {
+    "type": "image",
+    "url": "https://si.nccdn.net/bi_color/green_dark_gray/256x256/icon56.png",
+    "source": "img.src",
+    "cleanUrl": "https://si.nccdn.net/bi_color/green_dark_gray/256x256/icon56.png",
+    "localName": "icon56.png"
+  }
+]

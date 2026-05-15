@@ -1,0 +1,427 @@
+[
+  {
+    "type": "css",
+    "url": "https://fonts.nccdn.net/Arvo/Arvo.css",
+    "source": "link.stylesheet"
+  },
+  {
+    "type": "css",
+    "url": "https://fonts.nccdn.net/DancingScript/DancingScript.css",
+    "source": "link.stylesheet"
+  },
+  {
+    "type": "css",
+    "url": "https://fonts.nccdn.net/Raleway/Raleway.css",
+    "source": "link.stylesheet"
+  },
+  {
+    "type": "css",
+    "url": "https://fonts.nccdn.net/Ubuntu/Ubuntu.css",
+    "source": "link.stylesheet"
+  },
+  {
+    "type": "css",
+    "url": "https://img-fl.nccdn.net/Apps/ContactInfo/build/ContactInfo_display.css?V=af24f831",
+    "source": "link.stylesheet"
+  },
+  {
+    "type": "css",
+    "url": "https://img-fl.nccdn.net/Apps/CookieConsent/build/CookieConsent_display.css?V=af24f831",
+    "source": "link.stylesheet"
+  },
+  {
+    "type": "css",
+    "url": "https://img-fl.nccdn.net/Apps/GoogleMaps/build/GoogleMaps_display.css?V=af24f831",
+    "source": "link.stylesheet"
+  },
+  {
+    "type": "css",
+    "url": "https://img-fl.nccdn.net/Core/Elements/Form/build/Form_display.css?V=af24f831",
+    "source": "link.stylesheet"
+  },
+  {
+    "type": "css",
+    "url": "https://img-fl.nccdn.net/Core/Elements/Gallery/Old/css/styles.css?V=af24f831",
+    "source": "link.stylesheet"
+  },
+  {
+    "type": "css",
+    "url": "https://img-fl.nccdn.net/Core/Elements/SectionGroup/css/fat_styles.css?V=af24f831",
+    "source": "link.stylesheet"
+  },
+  {
+    "type": "css",
+    "url": "https://img-fl.nccdn.net/Core/Elements/TextAndImage/build/TextAndImage_display.css?V=af24f831",
+    "source": "link.stylesheet"
+  },
+  {
+    "type": "css",
+    "url": "https://img-fl.nccdn.net/Designs/Freemona/css/fat_freemona.css?V=af24f831",
+    "source": "link.stylesheet"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/098/305/section-arrow-collapsed-dark.png",
+    "source": "inline-css"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/0b3/2cf/nav_dot_separator_black.png",
+    "source": "inline-css"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/0c2/584/mat-black-60.png",
+    "source": "inline-css"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/0c5/f30/sprite-dots-dark.svg",
+    "source": "inline-css"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/0e4/afe/close.svg",
+    "source": "inline-css"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/0ee/126/mat-black-80.png",
+    "source": "computed.backgroundImage"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/0f3/714/section-arrow-expanded-white.png",
+    "source": "inline-css"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/109/425/mat-black-12.png",
+    "source": "inline-css"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/11d/a9c/nav-buttons-light.svg",
+    "source": "inline-css"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/121/0ad/section-arrow-expanded-dark.png",
+    "source": "inline-css"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/154/115/nav-dots-light.svg",
+    "source": "inline-css"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/167/95b/alpha-black-1.png",
+    "source": "inline-css"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/169/193/nav_dot_separator_green.png",
+    "source": "computed.backgroundImage"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/175/b9e/nav-numbers-light.svg",
+    "source": "inline-css"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/175/c56/sprite-scrollbar-arrows-light.svg",
+    "source": "inline-css"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/1_2/000/000/192/652/page_image_shadow_top.png",
+    "source": "computed.backgroundImage"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/4_2/000/000/000/13f/search_icon.png",
+    "source": "inline-css"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/4_2/000/000/002/0b8/main_content_top_shadow.png",
+    "source": "computed.backgroundImage"
+  },
+  {
+    "type": "css-url",
+    "url": "https://0201.nccdn.net/4_2/000/000/00a/17d/section-arrow-collapsed-white.png",
+    "source": "inline-css"
+  },
+  {
+    "type": "css-url",
+    "url": "https://designs.nccdn.net/Common/Navigation/mobile_nav_icon.png",
+    "source": "computed.backgroundImage"
+  },
+  {
+    "type": "css-url",
+    "url": "https://img-fl.nccdn.net/Shared/Images/Form/icon-error-32.png",
+    "source": "computed.backgroundImage"
+  },
+  {
+    "type": "css-url",
+    "url": "https://img-fl.nccdn.net/Shared/UIComponents/React/Modal/Images/close_icon.svg",
+    "source": "computed.backgroundImage"
+  },
+  {
+    "type": "css-url",
+    "url": "https://si.nccdn.net/pictograms-black/48/icon_04.png",
+    "source": "computed.backgroundImage"
+  },
+  {
+    "type": "css-url",
+    "url": "https://si.nccdn.net/pictograms-black/48/icon_178.png",
+    "source": "computed.backgroundImage"
+  },
+  {
+    "type": "css-url",
+    "url": "https://si.nccdn.net/pictograms-black/48/icon_188.png",
+    "source": "computed.backgroundImage"
+  },
+  {
+    "type": "css-url",
+    "url": "https://si.nccdn.net/pictograms-black/48/icon_189.png",
+    "source": "computed.backgroundImage"
+  },
+  {
+    "type": "css-url",
+    "url": "https://si.nccdn.net/pictograms-black/48/icon_53.png",
+    "source": "computed.backgroundImage"
+  },
+  {
+    "type": "icon",
+    "url": "http://www.publiyep.com/android-chrome-192x192.png#SYSTEM",
+    "source": "link.icon"
+  },
+  {
+    "type": "icon",
+    "url": "http://www.publiyep.com/android-chrome-512x512.png#SYSTEM",
+    "source": "link.icon"
+  },
+  {
+    "type": "icon",
+    "url": "https://img-fl.nccdn.net/apple-touch-icon.png?V=af24f831#SYSTEM",
+    "source": "link.apple-touch-icon"
+  },
+  {
+    "type": "icon",
+    "url": "https://img-fl.nccdn.net/favicon-16x16.png?V=af24f831#SYSTEM",
+    "source": "link.icon"
+  },
+  {
+    "type": "icon",
+    "url": "https://img-fl.nccdn.net/favicon-32x32.png?V=af24f831#SYSTEM",
+    "source": "link.icon"
+  },
+  {
+    "type": "icon",
+    "url": "https://img-fl.nccdn.net/favicon.ico?V=af24f831#SYSTEM",
+    "source": "link.icon"
+  },
+  {
+    "type": "iframe",
+    "url": "https://maps.google.com/maps?q=Cl.%2013%20%23%2021-46%2C%20Acac%C3%ADas&t=&z=10&ie=UTF8&iwloc=&output=embed",
+    "source": "performance"
+  },
+  {
+    "type": "image",
+    "url": "http://www.publiyep.com/Shared/Images/space.gif",
+    "source": "img.src"
+  },
+  {
+    "type": "image",
+    "url": "https://0201.nccdn.net/1_2/000/000/092/e1b/Portada-Publiyep_IMPRESION-4514x1672.png#RDAMDAID22312496",
+    "source": "img.src"
+  },
+  {
+    "type": "image",
+    "url": "https://0201.nccdn.net/1_2/000/000/181/cac/logo-publiyep_2_2_mesa-de-trabajo-1.png",
+    "source": "meta"
+  },
+  {
+    "type": "image",
+    "url": "https://0201.nccdn.net/1_2/000/000/181/cac/logo-publiyep_2_2_mesa-de-trabajo-1.png#RDAMDAID40481826",
+    "source": "img.src"
+  },
+  {
+    "type": "image",
+    "url": "https://0201.nccdn.net/4_2/000/000/024/ec9/309989558_500162875452366_8664288469728456609_n.jpg#RDAMDAID40485188",
+    "source": "img.src"
+  },
+  {
+    "type": "image",
+    "url": "https://0201.nccdn.net/4_2/000/000/081/4ce/fondo-d-641x351.png#RDAMDAID22312692",
+    "source": "img.src"
+  },
+  {
+    "type": "image",
+    "url": "https://img-fl.nccdn.net/Shared/Images/blank.gif?V=af24f831#SYSTEM",
+    "source": "img.src"
+  },
+  {
+    "type": "image",
+    "url": "https://img-fl.nccdn.net/Shared/Images/space.gif?V=af24f831",
+    "source": "img.src"
+  },
+  {
+    "type": "image",
+    "url": "https://si.nccdn.net/bi_color/dark_green_dark_gray/256x256/icon108.png",
+    "source": "img.src"
+  },
+  {
+    "type": "image",
+    "url": "https://si.nccdn.net/bi_color/dark_green_dark_gray/256x256/icon137.png",
+    "source": "img.src"
+  },
+  {
+    "type": "image",
+    "url": "https://si.nccdn.net/bi_color/green_dark_gray/256x256/icon56.png",
+    "source": "img.src"
+  },
+  {
+    "type": "img",
+    "url": "http://count.carrierzone.com/track/ctin.php?t=1778807174994&custnum=f5ace90aa9b01f4e&sname=www.publiyep.com&pagename=&group=&version=%24Rev%3A%207840%20%24&js=1&jv=0&resolution=1920x1080&color_depth=32&referrer=http%3A%2F%2Fwww.publiyep.com%2F&page_url=http%253A%252F%252Fwww.publiyep.com%252F&plugins=PDF%20Viewer%3BChrome%20PDF%20Viewer%3BChromium%20PDF%20Viewer%3BMicrosoft%20Edge%20PDF%20Viewer%3BWebKit%20built-in%20PDF%3B",
+    "source": "performance"
+  },
+  {
+    "type": "img",
+    "url": "http://count.carrierzone.com/track/ctin.php?t=1778807174995&custnum=f5ace90aa9b01f4e&sname=www.publiyep.com&pagename=hproxy.php&group=&version=%24Rev%3A%207840%20%24&js=1&jv=0&resolution=1920x1080&color_depth=32&campaign=&referrer=http%3A%2F%2Fwww.publiyep.com%2F&page_url=http%253A%252F%252Fwww.publiyep.com%252F&plugins=PDF%20Viewer%3BChrome%20PDF%20Viewer%3BChromium%20PDF%20Viewer%3BMicrosoft%20Edge%20PDF%20Viewer%3BWebKit%20built-in%20PDF%3B",
+    "source": "performance"
+  },
+  {
+    "type": "javascript",
+    "url": "http://instant.page/5.1.0",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://count.carrierzone.com/app/count_server/count.js",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://count.carrierzone.com/track/count.js",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://img-fl.nccdn.net/Apps/ContactInfo/build/display.m.MX.js?V=af24f831",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://img-fl.nccdn.net/Apps/CookieConsent/build/display.m.MX.js?V=af24f831",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://img-fl.nccdn.net/Apps/CookieConsent/build/header.m.MX.js?V=af24f831",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://img-fl.nccdn.net/Apps/Framework/3.0/Scripts/fat_display.js?V=af24f831",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://img-fl.nccdn.net/Apps/GoogleMaps/build/display.m.MX.js?V=af24f831",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://img-fl.nccdn.net/Apps/GoogleMaps/Scripts/fat_display.MX.js?V=af24f831",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://img-fl.nccdn.net/Apps/OpenHours/Scripts/header.transpiled.js?V=af24f831",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://img-fl.nccdn.net/Core/Elements/Form/build/display.m.MX.js?V=af24f831",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://img-fl.nccdn.net/Core/Elements/Gallery/Old/Scripts/fat_slideshow_animated.MX.js?V=af24f831",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://img-fl.nccdn.net/Core/Elements/SectionGroup/Scripts/fat_display.js?V=af24f831",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://img-fl.nccdn.net/Core/Elements/SectionGroup/Section/Scripts/fat_display.MX.js?V=af24f831",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://img-fl.nccdn.net/Core/Elements/TextAndImage/build/display.m.MX.js?V=af24f831",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://img-fl.nccdn.net/Core/Navigation/build/display.m.MX.js?V=af24f831",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://img-fl.nccdn.net/Core/Site/Logo/Scripts/fat_display.MX.js?V=af24f831",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://img-fl.nccdn.net/DataFiles/env.js?token=eyJwYWdlX25vZGVfaWQiOiI5MDgzMTk3NCIsImRvbWFpbiI6InB1YmxpeWVwLmNvbSIsInVzZXJfaWQiOiI4MzAwOTAifQ",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://img-fl.nccdn.net/Designs/Freemona/Scripts/fat_freemona.js?V=af24f831",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://img-fl.nccdn.net/Shared/Scripts/fat_core.MX.js?V=af24f831",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://img-fl.nccdn.net/Shared/Scripts/fat_eua.MX.js?V=af24f831",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://img-fl.nccdn.net/Shared/UIComponents/Internal/Buttons/Scripts/base.js?V=af24f831",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://unpkg.com/react-dom@16.14.0/umd/react-dom.production.min.js",
+    "source": "script.src"
+  },
+  {
+    "type": "javascript",
+    "url": "https://unpkg.com/react@16.14.0/umd/react.production.min.js",
+    "source": "script.src"
+  },
+  {
+    "type": "link",
+    "url": "https://img-fl.nccdn.net/site.webmanifest?V=af24f831#SYSTEM",
+    "source": "link.manifest"
+  },
+  {
+    "type": "link",
+    "url": "https://publiyep.com/",
+    "source": "link.canonical"
+  }
+]

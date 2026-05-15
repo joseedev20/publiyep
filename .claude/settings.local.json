@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node *)",
+      "Bash(mkdir -p \"assets/prod\")",
+      "Bash(curl -sS -L -o \"portada-impresion.png\" \"https://0201.nccdn.net/1_2/000/000/092/e1b/Portada-Publiyep_IMPRESION-4514x1672.png\")",
+      "Bash(curl -sS -L -o \"logo-original.png\" \"https://0201.nccdn.net/1_2/000/000/181/cac/logo-publiyep_2_2_mesa-de-trabajo-1.png\")",
+      "Bash(curl -sS -L -o \"foto-real.jpg\" \"https://0201.nccdn.net/4_2/000/000/024/ec9/309989558_500162875452366_8664288469728456609_n.jpg\")",
+      "Bash(curl -sS -L -o \"fondo.png\" \"https://0201.nccdn.net/4_2/000/000/081/4ce/fondo-d-641x351.png\")",
+      "Bash(mv \"icon-108.png\" \"icon-calidad.png\")",
+      "Bash(mv \"icon-137.png\" \"icon-tiempo.png\")",
+      "Bash(mv \"icon-56.png\" \"icon-ahorro.png\")",
+      "Bash(mv \"portada-impresion.png\" \"hero-printer.png\")",
+      "Bash(mv \"foto-real.jpg\" \"banner-publiyep.jpg\")",
+      "Bash(rm -rf assets/prod)",
+      "Bash(mkdir -p assets/prod)"
+    ]
+  }
+}
